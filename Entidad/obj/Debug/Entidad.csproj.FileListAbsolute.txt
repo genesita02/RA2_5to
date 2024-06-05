@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\Acceso_a_Datos\Entidad\bin\Debug\Entidad.dll
+C:\Users\Administrator\Desktop\C#\Acceso_a_Datos\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Administrator\Desktop\C#\Acceso_a_Datos\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\Acceso_a_Datos\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Acceso_a_Datos\Entidad\obj\Debug\Entidad.dll
+C:\Users\Administrator\Desktop\C#\Acceso_a_Datos\Entidad\obj\Debug\Entidad.pdb
